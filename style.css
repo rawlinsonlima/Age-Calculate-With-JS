@@ -1,0 +1,53 @@
+body {
+  background: #05003b;
+  font: normal 15pt Arial;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+section {
+  background: wheat;
+  border-radius: 10px;
+  padding: 1rem;
+  width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(245, 245, 245, 0.548);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.hDia {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.dateInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  max-width: 200px;
+  border-radius: 360px;
+}
+
+.paisagem {
+  max-width: 125px;
+  border-radius: 360px;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}

@@ -13,8 +13,8 @@ Este é um projeto simples de uma calculadora de idade desenvolvida em HTML, CSS
 5. Clique no botão "Verificar".
 6. Ou acesse diretamente pelo link: [Age-Calculator](https://rawlinsonlima.github.io/Age-Calculate-With-JS/)
 ## Tecnologias utilizadas
-**HTML**
-**CSS**
-**JavaScript**
+- **HTML**
+- **CSS**
+- **JavaScript**
 ## Autor
 *Rawlinson Lima*
